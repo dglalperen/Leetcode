@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa4f833c-48b1-4aa4-9542-4b34eeb6c6c6" name="Changes" comment="Q3 finished">
-      <change afterPath="$PROJECT_DIR$/src/Q1_Q10/Q4_Median_of_Two_Sorted_Arrays.java" afterDir="false" />
+    <list default="true" id="fa4f833c-48b1-4aa4-9542-4b34eeb6c6c6" name="Changes" comment="Q4 finished (not really understood though :D)">
+      <change afterPath="$PROJECT_DIR$/src/Q1_Q10/Q5_Longest_Palindromic_Substring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q1_Q10/Q6_Zigzag_Conversion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -130,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667404724298</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Q4 finished (not really understood though :D)">
+      <created>1667514569301</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667514569301</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,6 +156,7 @@
     <MESSAGE value="Q1 finished" />
     <MESSAGE value="Q2 finished" />
     <MESSAGE value="Q3 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="Q3 finished" />
+    <MESSAGE value="Q4 finished (not really understood though :D)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Q4 finished (not really understood though :D)" />
   </component>
 </project>
