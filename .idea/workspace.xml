@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa4f833c-48b1-4aa4-9542-4b34eeb6c6c6" name="Changes" comment="Q4 finished (not really understood though :D)">
-      <change afterPath="$PROJECT_DIR$/src/Q1_Q10/Q5_Longest_Palindromic_Substring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q1_Q10/Q6_Zigzag_Conversion.java" afterDir="false" />
+    <list default="true" id="fa4f833c-48b1-4aa4-9542-4b34eeb6c6c6" name="Changes" comment="Q5 / Q6 finished">
+      <change afterPath="$PROJECT_DIR$/src/Q1_Q10/Q7_Reverse_Integer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +38,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Alpi/Desktop/Programmierung/Java/DSA - Learning&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Q4_Median_of_Two_Sorted_Arrays">
+  <component name="RunManager" selected="Application.Q7_Reverse_Integer">
     <configuration name="Q1_Two_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Q1_Q10.Q1_Two_Sum" />
       <module name="Leetcode" />
@@ -79,6 +78,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Q7_Reverse_Integer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q1_Q10.Q7_Reverse_Integer" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Q1_Q10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Q1_Q10.Test" />
       <module name="Leetcode" />
@@ -94,6 +106,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q7_Reverse_Integer" />
         <item itemvalue="Application.Q4_Median_of_Two_Sorted_Arrays" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Q3_Longest_Substring_Without_Repeating_Char" />
@@ -138,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667514569301</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Q5 / Q6 finished">
+      <created>1667680283816</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667680283816</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,6 +177,7 @@
     <MESSAGE value="Q2 finished" />
     <MESSAGE value="Q3 finished" />
     <MESSAGE value="Q4 finished (not really understood though :D)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Q4 finished (not really understood though :D)" />
+    <MESSAGE value="Q5 / Q6 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Q5 / Q6 finished" />
   </component>
 </project>
